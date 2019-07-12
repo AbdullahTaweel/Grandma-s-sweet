@@ -1,2 +1,2 @@
-# Grandma-s-sweet
-bootstrap designed + vanilla JS v1.0
+# js-cart-setup
+ADD ITEMS TO CART JAVASCRIPT PROJECT
